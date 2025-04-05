@@ -16,7 +16,7 @@ Programming Languages: Python
 
 NLP Techniques: Sentiment Analysis, Text Preprocessing, Tokenization
 
-Machine Learning Libraries: Scikit-learn, NLTK
+Machine Learning Libraries: Scikit-learn, NLTK, Pickle
 
 
 #Project Highlights

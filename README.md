@@ -6,5 +6,7 @@ This project focuses on analyzing sentiment from tweets using Natural Language P
 Features
 
 Data Collection: Tweets collected using Twitter's API (or dataset source, if applicable).
+
 Text Preprocessing: Tokenization, stop-word removal, stemming, and lemmatization.
+
 Sentiment Classification: Application of supervised learning models to classify tweets.

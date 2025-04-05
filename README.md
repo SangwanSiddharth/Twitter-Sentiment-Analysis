@@ -11,7 +11,16 @@ Text Preprocessing: Tokenization, stop-word removal, stemming, and lemmatization
 
 Sentiment Classification: Application of supervised learning models to classify tweets.
 
+Tools & Technologies
+Programming Languages: Python
+
+NLP Techniques: Sentiment Analysis, Text Preprocessing, Tokenization
+
+Machine Learning Libraries: Scikit-learn, NLTK
+
+
 Project Highlights
+
 Developed an effective sentiment classification pipeline for real-world applications.
 
 Leveraged Named Entity Recognition (NER) to identify critical topics or entities in tweets.

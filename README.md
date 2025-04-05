@@ -10,3 +10,10 @@ Data Collection: Tweets collected using Twitter's API (or dataset source, if app
 Text Preprocessing: Tokenization, stop-word removal, stemming, and lemmatization.
 
 Sentiment Classification: Application of supervised learning models to classify tweets.
+
+Project Highlights
+Developed an effective sentiment classification pipeline for real-world applications.
+
+Leveraged Named Entity Recognition (NER) to identify critical topics or entities in tweets.
+
+Presented insights that can guide social media marketing campaigns, customer satisfaction initiatives, or trend analysis.
